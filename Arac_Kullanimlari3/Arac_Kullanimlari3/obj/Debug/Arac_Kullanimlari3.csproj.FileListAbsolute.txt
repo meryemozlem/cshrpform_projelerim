@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\bin\Debug\Arac_Kullanimlari3.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\bin\Debug\Arac_Kullanimlari3.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\bin\Debug\Arac_Kullanimlari3.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\obj\Debug\Arac_Kullanimlari3.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\obj\Debug\Arac_Kullanimlari3.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\obj\Debug\Arac_Kullanimlari3.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\obj\Debug\Arac_Kullanimlari3.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\obj\Debug\Arac_Kullanimlari3.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\obj\Debug\Arac_Kullanimlari3.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Arac_Kullanimlari3\Arac_Kullanimlari3\obj\Debug\Arac_Kullanimlari3.pdb

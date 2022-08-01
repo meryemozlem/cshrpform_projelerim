@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\bin\Debug\odevKdvhesabi.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\bin\Debug\odevKdvhesabi.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\bin\Debug\odevKdvhesabi.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\obj\Debug\odevKdvhesabi.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\obj\Debug\odevKdvhesabi.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\obj\Debug\odevKdvhesabi.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\obj\Debug\odevKdvhesabi.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\obj\Debug\odevKdvhesabi.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\obj\Debug\odevKdvhesabi.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\odevKdvhesabi\odevKdvhesabi\obj\Debug\odevKdvhesabi.pdb

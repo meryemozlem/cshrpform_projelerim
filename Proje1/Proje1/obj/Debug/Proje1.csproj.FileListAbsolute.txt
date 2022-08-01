@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Proje1\Proje1\obj\Debug\Proje1.pdb

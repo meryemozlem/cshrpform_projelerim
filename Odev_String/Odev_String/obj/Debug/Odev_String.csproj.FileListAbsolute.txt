@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\bin\Debug\Odev_String.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\bin\Debug\Odev_String.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\bin\Debug\Odev_String.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\obj\Debug\Odev_String.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\obj\Debug\Odev_String.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\obj\Debug\Odev_String.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\obj\Debug\Odev_String.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\obj\Debug\Odev_String.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\obj\Debug\Odev_String.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev_String\Odev_String\obj\Debug\Odev_String.pdb

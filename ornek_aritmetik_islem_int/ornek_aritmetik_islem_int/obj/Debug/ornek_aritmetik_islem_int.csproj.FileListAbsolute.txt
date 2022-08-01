@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\bin\Debug\ornek_aritmetik_islem_int.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\bin\Debug\ornek_aritmetik_islem_int.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\bin\Debug\ornek_aritmetik_islem_int.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\obj\Debug\ornek_aritmetik_islem_int.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\obj\Debug\ornek_aritmetik_islem_int.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\obj\Debug\ornek_aritmetik_islem_int.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\obj\Debug\ornek_aritmetik_islem_int.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\obj\Debug\ornek_aritmetik_islem_int.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\obj\Debug\ornek_aritmetik_islem_int.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ornek_aritmetik_islem_int\ornek_aritmetik_islem_int\obj\Debug\ornek_aritmetik_islem_int.pdb

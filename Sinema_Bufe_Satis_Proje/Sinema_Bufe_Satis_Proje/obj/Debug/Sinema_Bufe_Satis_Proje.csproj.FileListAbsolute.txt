@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\Sinema_Bufe_Satis_Proje.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\Sinema_Bufe_Satis_Proje.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\Sinema_Bufe_Satis_Proje.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\Sinema_Bufe_Satis_Proje.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\Sinema_Bufe_Satis_Proje.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\Sinema_Bufe_Satis_Proje.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\Sinema_Bufe_Satis_Proje.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\Sinema_Bufe_Satis_Proje.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\Sinema_Bufe_Satis_Proje.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\Sinema_Bufe_Satis_Proje.pdb

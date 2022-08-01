@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\bin\Debug\Odev4.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\bin\Debug\Odev4.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\bin\Debug\Odev4.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\obj\Debug\Odev4.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\obj\Debug\Odev4.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\obj\Debug\Odev4.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\obj\Debug\Odev4.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\obj\Debug\Odev4.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\obj\Debug\Odev4.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Odev4\Odev4\obj\Debug\Odev4.pdb

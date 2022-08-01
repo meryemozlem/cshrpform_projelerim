@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\bin\Debug\ogrenci_not_hesabi_proje.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\bin\Debug\ogrenci_not_hesabi_proje.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\bin\Debug\ogrenci_not_hesabi_proje.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\obj\Debug\ogrenci_not_hesabi_proje.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\obj\Debug\ogrenci_not_hesabi_proje.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\obj\Debug\ogrenci_not_hesabi_proje.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\obj\Debug\ogrenci_not_hesabi_proje.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\obj\Debug\ogrenci_not_hesabi_proje.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\obj\Debug\ogrenci_not_hesabi_proje.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\ogrenci_not_hesabi_proje\ogrenci_not_hesabi_proje\obj\Debug\ogrenci_not_hesabi_proje.pdb

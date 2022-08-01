@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.pdb

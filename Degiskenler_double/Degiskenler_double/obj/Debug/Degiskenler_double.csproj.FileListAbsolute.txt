@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\bin\Debug\Degiskenler_double.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\bin\Debug\Degiskenler_double.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\bin\Debug\Degiskenler_double.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.exe
+C:\Users\mozay\OneDrive\Masaüstü\Udemy C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.pdb
