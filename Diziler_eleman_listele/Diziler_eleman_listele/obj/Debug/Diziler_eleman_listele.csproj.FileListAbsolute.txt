@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\bin\Debug\Diziler_eleman_listele.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\bin\Debug\Diziler_eleman_listele.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\bin\Debug\Diziler_eleman_listele.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\obj\Debug\Diziler_eleman_listele.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\obj\Debug\Diziler_eleman_listele.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\obj\Debug\Diziler_eleman_listele.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\obj\Debug\Diziler_eleman_listele.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\obj\Debug\Diziler_eleman_listele.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\obj\Debug\Diziler_eleman_listele.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_eleman_listele\Diziler_eleman_listele\obj\Debug\Diziler_eleman_listele.pdb

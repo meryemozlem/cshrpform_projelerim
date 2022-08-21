@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UoO9/dnXsnmT/WPj1fcBKjNAN8+s2sE3iuRmKFHxKuMXSWdc/zAVXxhxkH7n37tDL4GlQdYq/kqq4EHqYXdf2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\udemycshrproje\\Console_OrnekM\\Console_OrnekM\\Console_OrnekM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mozay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

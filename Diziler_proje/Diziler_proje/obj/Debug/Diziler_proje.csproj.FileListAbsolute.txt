@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\bin\Debug\Diziler_proje.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\bin\Debug\Diziler_proje.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\bin\Debug\Diziler_proje.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\obj\Debug\Diziler_proje.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\obj\Debug\Diziler_proje.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\obj\Debug\Diziler_proje.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\obj\Debug\Diziler_proje.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\obj\Debug\Diziler_proje.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\obj\Debug\Diziler_proje.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Diziler_proje\Diziler_proje\obj\Debug\Diziler_proje.pdb

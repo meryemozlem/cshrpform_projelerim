@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\obj\Debug\Metotlar.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

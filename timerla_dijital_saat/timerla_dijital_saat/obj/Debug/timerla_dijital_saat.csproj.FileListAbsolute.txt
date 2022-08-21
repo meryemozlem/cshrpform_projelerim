@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\bin\Debug\timerla_dijital_saat.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\bin\Debug\timerla_dijital_saat.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\bin\Debug\timerla_dijital_saat.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\obj\Debug\timerla_dijital_saat.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\obj\Debug\timerla_dijital_saat.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\obj\Debug\timerla_dijital_saat.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\obj\Debug\timerla_dijital_saat.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\obj\Debug\timerla_dijital_saat.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\obj\Debug\timerla_dijital_saat.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\timerla_dijital_saat\timerla_dijital_saat\obj\Debug\timerla_dijital_saat.pdb

@@ -1,0 +1,13 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\bin\Debug\netcoreapp3.1\Console_OrnekM.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\bin\Debug\netcoreapp3.1\Console_OrnekM.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\bin\Debug\netcoreapp3.1\Console_OrnekM.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\bin\Debug\netcoreapp3.1\Console_OrnekM.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\bin\Debug\netcoreapp3.1\Console_OrnekM.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\bin\Debug\netcoreapp3.1\Console_OrnekM.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\obj\Debug\netcoreapp3.1\Console_OrnekM.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\obj\Debug\netcoreapp3.1\Console_OrnekM.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\obj\Debug\netcoreapp3.1\Console_OrnekM.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\obj\Debug\netcoreapp3.1\Console_OrnekM.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\obj\Debug\netcoreapp3.1\Console_OrnekM.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\obj\Debug\netcoreapp3.1\Console_OrnekM.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Console_OrnekM\Console_OrnekM\obj\Debug\netcoreapp3.1\Console_OrnekM.genruntimeconfig.cache

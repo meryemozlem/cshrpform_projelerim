@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mvpan71RgUDQlimylV6dY2tG7aUsL75yHtPHEskCV4+xGlEv+ygjl+hVQ9iro8064IUEG6Nh75ddCWMC1zlG6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\udemycshrproje\\Geriye_deger_donduren_metotlar\\Geriye_deger_donduren_metotlar\\Geriye_deger_donduren_metotlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mozay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

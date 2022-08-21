@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\bin\Debug\swirtchvecase.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\bin\Debug\swirtchvecase.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\bin\Debug\swirtchvecase.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\obj\Debug\swirtchvecase.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\obj\Debug\swirtchvecase.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\obj\Debug\swirtchvecase.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\obj\Debug\swirtchvecase.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\obj\Debug\swirtchvecase.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\obj\Debug\swirtchvecase.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\swirtchvecase\swirtchvecase\obj\Debug\swirtchvecase.pdb

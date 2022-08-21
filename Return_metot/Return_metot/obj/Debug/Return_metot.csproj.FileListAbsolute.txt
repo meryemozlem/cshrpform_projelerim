@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\bin\Debug\Return_metot.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\bin\Debug\Return_metot.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\bin\Debug\Return_metot.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\obj\Debug\Return_metot.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\obj\Debug\Return_metot.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\obj\Debug\Return_metot.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\obj\Debug\Return_metot.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\obj\Debug\Return_metot.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\obj\Debug\Return_metot.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Return_metot\Return_metot\obj\Debug\Return_metot.pdb

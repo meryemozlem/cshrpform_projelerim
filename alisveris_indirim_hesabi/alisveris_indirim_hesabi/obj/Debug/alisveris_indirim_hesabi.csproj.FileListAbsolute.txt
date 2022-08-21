@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\bin\Debug\alisveris_indirim_hesabi.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\bin\Debug\alisveris_indirim_hesabi.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\bin\Debug\alisveris_indirim_hesabi.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\obj\Debug\alisveris_indirim_hesabi.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\obj\Debug\alisveris_indirim_hesabi.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\obj\Debug\alisveris_indirim_hesabi.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\obj\Debug\alisveris_indirim_hesabi.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\obj\Debug\alisveris_indirim_hesabi.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\obj\Debug\alisveris_indirim_hesabi.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\alisveris_indirim_hesabi\alisveris_indirim_hesabi\obj\Debug\alisveris_indirim_hesabi.pdb

@@ -1,0 +1,11 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\bin\Debug\Sinif_Ornek.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\bin\Debug\Sinif_Ornek.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\bin\Debug\Sinif_Ornek.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.Form2.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Sinif_Ornek\Sinif_Ornek\obj\Debug\Sinif_Ornek.pdb

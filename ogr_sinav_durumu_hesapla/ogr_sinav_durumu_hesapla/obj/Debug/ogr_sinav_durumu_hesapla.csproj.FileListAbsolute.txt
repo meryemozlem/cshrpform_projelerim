@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\bin\Debug\ogr_sinav_durumu_hesapla.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\bin\Debug\ogr_sinav_durumu_hesapla.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\bin\Debug\ogr_sinav_durumu_hesapla.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\obj\Debug\ogr_sinav_durumu_hesapla.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\obj\Debug\ogr_sinav_durumu_hesapla.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\obj\Debug\ogr_sinav_durumu_hesapla.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\obj\Debug\ogr_sinav_durumu_hesapla.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\obj\Debug\ogr_sinav_durumu_hesapla.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\obj\Debug\ogr_sinav_durumu_hesapla.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\ogr_sinav_durumu_hesapla\ogr_sinav_durumu_hesapla\obj\Debug\ogr_sinav_durumu_hesapla.pdb

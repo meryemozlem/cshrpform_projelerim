@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Geriye_deger_donduren_metotlar/1.0.0": {
+        "runtime": {
+          "Geriye_deger_donduren_metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geriye_deger_donduren_metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

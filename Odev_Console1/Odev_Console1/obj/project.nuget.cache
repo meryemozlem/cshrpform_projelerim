@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PxAalkz+1eWEBKFhC/NceLNl6YZ+Duv/4//16kJYh++iwoy6vSI3VPIlo71LkBXCBIr5wpu1mIe3Bl/cFfcU+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\udemycshrproje\\Odev_Console1\\Odev_Console1\\Odev_Console1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mozay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

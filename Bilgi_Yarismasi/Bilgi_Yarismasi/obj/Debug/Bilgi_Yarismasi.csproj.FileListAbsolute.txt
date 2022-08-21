@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb

@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\bin\Debug\Foreach_ile_diziler.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\bin\Debug\Foreach_ile_diziler.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\bin\Debug\Foreach_ile_diziler.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\obj\Debug\Foreach_ile_diziler.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\obj\Debug\Foreach_ile_diziler.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\obj\Debug\Foreach_ile_diziler.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\obj\Debug\Foreach_ile_diziler.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\obj\Debug\Foreach_ile_diziler.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\obj\Debug\Foreach_ile_diziler.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Foreach_ile_diziler\Foreach_ile_diziler\obj\Debug\Foreach_ile_diziler.pdb

@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\bin\Debug\karar_yapilari.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\bin\Debug\karar_yapilari.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\bin\Debug\karar_yapilari.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.pdb

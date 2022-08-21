@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\bin\Debug\while_dongusu.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\bin\Debug\while_dongusu.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\bin\Debug\while_dongusu.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\obj\Debug\while_dongusu.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\obj\Debug\while_dongusu.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\obj\Debug\while_dongusu.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\obj\Debug\while_dongusu.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\obj\Debug\while_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\obj\Debug\while_dongusu.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\while_dongusu\while_dongusu\obj\Debug\while_dongusu.pdb

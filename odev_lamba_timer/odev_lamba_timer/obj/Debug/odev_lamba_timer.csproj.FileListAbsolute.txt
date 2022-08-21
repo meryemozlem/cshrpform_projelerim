@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\bin\Debug\odev_lamba_timer.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\bin\Debug\odev_lamba_timer.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\bin\Debug\odev_lamba_timer.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\obj\Debug\odev_lamba_timer.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\obj\Debug\odev_lamba_timer.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\obj\Debug\odev_lamba_timer.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\obj\Debug\odev_lamba_timer.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\obj\Debug\odev_lamba_timer.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\obj\Debug\odev_lamba_timer.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\odev_lamba_timer\odev_lamba_timer\obj\Debug\odev_lamba_timer.pdb
