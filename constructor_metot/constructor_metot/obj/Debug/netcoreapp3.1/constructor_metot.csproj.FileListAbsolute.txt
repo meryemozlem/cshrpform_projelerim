@@ -1,0 +1,13 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\bin\Debug\netcoreapp3.1\constructor_metot.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\bin\Debug\netcoreapp3.1\constructor_metot.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\bin\Debug\netcoreapp3.1\constructor_metot.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\bin\Debug\netcoreapp3.1\constructor_metot.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\bin\Debug\netcoreapp3.1\constructor_metot.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\bin\Debug\netcoreapp3.1\constructor_metot.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\obj\Debug\netcoreapp3.1\constructor_metot.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\obj\Debug\netcoreapp3.1\constructor_metot.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\obj\Debug\netcoreapp3.1\constructor_metot.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\obj\Debug\netcoreapp3.1\constructor_metot.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\obj\Debug\netcoreapp3.1\constructor_metot.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\obj\Debug\netcoreapp3.1\constructor_metot.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\constructor_metot\constructor_metot\obj\Debug\netcoreapp3.1\constructor_metot.genruntimeconfig.cache

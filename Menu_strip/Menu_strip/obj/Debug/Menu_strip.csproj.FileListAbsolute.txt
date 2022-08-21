@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\bin\Debug\Menu_strip.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\bin\Debug\Menu_strip.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\bin\Debug\Menu_strip.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\obj\Debug\Menu_strip.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\obj\Debug\Menu_strip.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\obj\Debug\Menu_strip.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\obj\Debug\Menu_strip.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\obj\Debug\Menu_strip.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\obj\Debug\Menu_strip.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Menu_strip\Menu_strip\obj\Debug\Menu_strip.pdb

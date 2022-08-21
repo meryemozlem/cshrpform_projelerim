@@ -1,0 +1,11 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Chart\Chart\obj\Debug\Chart.ContextMenuStrip.resources

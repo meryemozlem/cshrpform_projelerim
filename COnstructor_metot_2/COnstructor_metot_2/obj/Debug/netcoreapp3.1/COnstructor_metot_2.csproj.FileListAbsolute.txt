@@ -1,0 +1,13 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\bin\Debug\netcoreapp3.1\COnstructor_metot_2.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\bin\Debug\netcoreapp3.1\COnstructor_metot_2.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\bin\Debug\netcoreapp3.1\COnstructor_metot_2.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\bin\Debug\netcoreapp3.1\COnstructor_metot_2.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\bin\Debug\netcoreapp3.1\COnstructor_metot_2.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\bin\Debug\netcoreapp3.1\COnstructor_metot_2.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\obj\Debug\netcoreapp3.1\COnstructor_metot_2.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\obj\Debug\netcoreapp3.1\COnstructor_metot_2.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\obj\Debug\netcoreapp3.1\COnstructor_metot_2.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\obj\Debug\netcoreapp3.1\COnstructor_metot_2.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\obj\Debug\netcoreapp3.1\COnstructor_metot_2.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\obj\Debug\netcoreapp3.1\COnstructor_metot_2.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\COnstructor_metot_2\COnstructor_metot_2\obj\Debug\netcoreapp3.1\COnstructor_metot_2.genruntimeconfig.cache

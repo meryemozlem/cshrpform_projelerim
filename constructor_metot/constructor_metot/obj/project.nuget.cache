@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSF3hryjVjYnP6+nyF4COTsdf489RneCFKKkZeLb784sOLaIG6upioYo4N31urT3Tc+PMXAeshOe/91pcVmqiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\udemycshrproje\\constructor_metot\\constructor_metot\\constructor_metot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mozay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
