@@ -19,15 +19,19 @@ namespace Geriye_deger_donduren_metotlar
             isl.kare(10);
 
             */
+            int s1,s2;
+            Console.WriteLine("1.değeri giriniz.");
+            s1 = Convert.ToInt16(Console.ReadLine());
 
+            Console.WriteLine("2.değeri giriniz.");
+            s2 = Convert.ToInt16(Console.ReadLine());
             islem deger = new islem();
-            deger.topla(7, 1);
-            deger.cikar(7, 1);
-            deger.carp(7, 1);
-            deger.bol(7, 1);
+            deger.topla(s1, s2);
+            deger.cikar(s1, s2);
+            deger.carp(s1, s2);
+            deger.bol(s1, s2);
 
-
-
+         // deger.bol(7, 1);
 
         }
     }
