@@ -1,0 +1,11 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\bin\Debug\extra_Captcha.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\bin\Debug\extra_Captcha.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\bin\Debug\extra_Captcha.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_Captcha\extra_Captcha\obj\Debug\extra_Captcha.Form2.resources

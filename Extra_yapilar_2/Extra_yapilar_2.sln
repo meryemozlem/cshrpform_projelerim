@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra_yapilar_2", "Extra_yapilar_2\Extra_yapilar_2.csproj", "{497DE25E-0E12-48F8-AAD7-9F47C6A1C156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497DE25E-0E12-48F8-AAD7-9F47C6A1C156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497DE25E-0E12-48F8-AAD7-9F47C6A1C156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497DE25E-0E12-48F8-AAD7-9F47C6A1C156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497DE25E-0E12-48F8-AAD7-9F47C6A1C156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB295A71-7869-4B3E-94A4-95C81E5C7199}
+	EndGlobalSection
+EndGlobal

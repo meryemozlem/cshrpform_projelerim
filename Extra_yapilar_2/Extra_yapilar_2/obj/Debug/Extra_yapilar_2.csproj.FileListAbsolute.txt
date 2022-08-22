@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\bin\Debug\Extra_yapilar_2.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\bin\Debug\Extra_yapilar_2.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\bin\Debug\Extra_yapilar_2.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\obj\Debug\Extra_yapilar_2.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\obj\Debug\Extra_yapilar_2.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\obj\Debug\Extra_yapilar_2.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\obj\Debug\Extra_yapilar_2.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\obj\Debug\Extra_yapilar_2.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\obj\Debug\Extra_yapilar_2.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Extra_yapilar_2\Extra_yapilar_2\obj\Debug\Extra_yapilar_2.pdb

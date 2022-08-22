@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\bin\Debug\extra_3,.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\bin\Debug\extra_3,.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\bin\Debug\extra_3,.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\obj\Debug\extra_3,.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\obj\Debug\extra_3_.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\obj\Debug\extra_3_.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\obj\Debug\extra_3,.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\obj\Debug\extra_3,.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\obj\Debug\extra_3,.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\extra_3,\extra_3,\obj\Debug\extra_3,.pdb
