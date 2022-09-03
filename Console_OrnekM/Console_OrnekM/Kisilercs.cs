@@ -6,7 +6,7 @@ namespace Console_OrnekM
 {
     class Kisilercs
     {
-        //metot tanımla
+        // metot tanımla
         /*
         public void kisilistesi()
         {
@@ -27,7 +27,8 @@ namespace Console_OrnekM
         }
         */
 
-        //klavyeden girilen değeri 10 kez yazdıran metot. ads yerine adsoyad da olurdu.s
+        //klavyeden girilen değeri 10 kez yazdıran metot. ads yerine adsoyad da olurdu.
+
         public void kisilistesi(string ads)
         {
             for (int i = 1; i <= 10; i++)

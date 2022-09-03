@@ -16,6 +16,8 @@ namespace Return_metot
         {
             InitializeComponent();
         }
+        // private int Toplam()
+
         int Toplam(int s1, int s2)
         {
             int s3 = s1 + s2;
@@ -40,6 +42,14 @@ namespace Return_metot
             int Ktoplam =deger1+deger2;
             return Ktoplam;
         }
+
+        int KlavyeCarpim(int dgr1, int dgr2, int dgr3)
+        {
+            int Kcarp = dgr1 * dgr2 * dgr3;
+            return Kcarp;
+        }
+
+
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -66,6 +76,14 @@ namespace Return_metot
 
             label8.Text = KlavyeToplam(deger1,deger2).ToString();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int a = Convert.ToInt16(textBox4.Text);
+            int b = Convert.ToInt16(textBox5.Text);
+            int c = Convert.ToInt16(textBox6.Text);
+
+            label9.Text = KlavyeCarpim(a,b,c).ToString();
+        }
     }
 }
-

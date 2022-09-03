@@ -27,10 +27,10 @@ namespace Sinif_Ornek
             rb.durum = 'S';
             rb.fiyat = 50000;
 
-            rb.YIL = -2016;
-            rb.MARKA ="Golf";
+            rb.YIL = -2019;
+            rb.MARKA ="Volvo";
 
-            //kalıtım sayesinde rb. kullanrak diğer sınıf verilerine eriştik.
+            //kalıtım sayesinde rb. kullanarak diğer sınıf verilerine eriştik.
             rb.muayene = 2017;
             rb.plaka = "06 TC 657";
             rb.sahip ="Meryem Özlem AYDOĞAN";

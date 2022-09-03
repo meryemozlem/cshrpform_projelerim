@@ -13,6 +13,7 @@ namespace Geriye_deger_donduren_metotlar
             Console.WriteLine("Sonuç: " + s3);
             return s3;
         }
+
         public int kare(int deger)
         {
             int sonuc = deger * deger;
@@ -20,10 +21,17 @@ namespace Geriye_deger_donduren_metotlar
             return sonuc;
         }
 
+        public int kup(int deger)
+        {
+            int s=Math.Pow(deger,3);
+            Console.WriteLine("Sonuç: " + s);
+            return s;
+
+        }
+
         */
 
         //Klavyeden girilen 2 sayıya 4 işlem uygulayan metot.
-
 
         public int topla(int s1, int s2)
         {

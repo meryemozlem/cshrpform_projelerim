@@ -11,12 +11,17 @@ namespace constructor_metot
         nesne olarak tanımlanmasında alt yapıyı hazırlayan,
         kurucu rolü üstlenen, sınıf ismi ile aynı isime sahip olan, geriye değer döndürmeyen fonksiyon türleridir.*/
 
-
-        // klavyeden veri girişi al.
-        public ogrenci(string bilgi, string soyad, int yas, string meslek)
+        /* 
+            public ogrenci()
         {
-            Console.WriteLine("Ad- Kulüp: " + bilgi + "\n" + "Soyad: " + soyad + "\n" + "Yaş: " + yas + "\n" + "Meslek: " + meslek);
-            //  Console.WriteLine("Adı: Baran"+"\n"+"Soyadı: Yücedağ"+"\n"+"Meslek: Öğretmen");
+         c.w("Ad: Baran"+"\n"+"Soyadı: Öz" + "\n" + "Meslek: Öğretmen");
+        }
+         */
+        // klavyeden veri girişi al.
+        public ogrenci(string kulup,string ad, string soyad, int yas, string meslek)
+        {
+            Console.WriteLine("Kulüp: " + kulup + "\n" + "Ad: " +ad+ " " + "Soyad: " + soyad + "\n" + "Yaş: " + yas + "\n" + "Meslek: " + meslek);
+
         }
     }
 }

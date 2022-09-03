@@ -18,6 +18,10 @@ namespace Geriye_deger_donduren_metotlar
             isl.kare(5);
             isl.kare(10);
 
+            Console.WriteLine("/n/n/n/n/n");
+
+            isl.kup(5);
+
             */
             int s1,s2;
             Console.WriteLine("1.değeri giriniz.");
@@ -25,6 +29,7 @@ namespace Geriye_deger_donduren_metotlar
 
             Console.WriteLine("2.değeri giriniz.");
             s2 = Convert.ToInt16(Console.ReadLine());
+
             islem deger = new islem();
             deger.topla(s1, s2);
             deger.cikar(s1, s2);

@@ -8,10 +8,10 @@ namespace Sinif_Ornek
 {
     class ArabaDetay
     {
+        // Değerleri Belirt
+
         public string plaka;
         public int muayene;
         public string sahip;
-
-
     }
 }

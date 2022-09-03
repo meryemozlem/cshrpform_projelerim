@@ -1,0 +1,13 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\bin\Debug\netcoreapp3.1\Odev_ConsoleExtra.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\bin\Debug\netcoreapp3.1\Odev_ConsoleExtra.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\bin\Debug\netcoreapp3.1\Odev_ConsoleExtra.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\bin\Debug\netcoreapp3.1\Odev_ConsoleExtra.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\bin\Debug\netcoreapp3.1\Odev_ConsoleExtra.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\bin\Debug\netcoreapp3.1\Odev_ConsoleExtra.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\obj\Debug\netcoreapp3.1\Odev_ConsoleExtra.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\obj\Debug\netcoreapp3.1\Odev_ConsoleExtra.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\obj\Debug\netcoreapp3.1\Odev_ConsoleExtra.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\obj\Debug\netcoreapp3.1\Odev_ConsoleExtra.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\obj\Debug\netcoreapp3.1\Odev_ConsoleExtra.dll
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\obj\Debug\netcoreapp3.1\Odev_ConsoleExtra.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Odev_ConsoleExtra\Odev_ConsoleExtra\obj\Debug\netcoreapp3.1\Odev_ConsoleExtra.genruntimeconfig.cache

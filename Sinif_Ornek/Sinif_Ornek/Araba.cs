@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Sinif_Ornek
 {
     class Araba: ArabaDetay
-    {
+    {   // araba sınıfına arabadetay sınıfı özellikleri aktarıldı. Kalıtımla.
         // erişim tip değişken;
         public string renk;
         public int hiz;
@@ -31,6 +31,4 @@ namespace Sinif_Ornek
             set { marka = value.ToUpper(); }
         }
     }
-
-
 }

@@ -6,7 +6,7 @@ namespace Console_OrnekM
 {
     class Mesaj
     {
-        //metot tanımla
+        // geriye değer döndürmeyen metodu tanımla
 
         public void metin()
         {
