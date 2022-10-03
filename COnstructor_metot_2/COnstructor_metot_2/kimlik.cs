@@ -11,8 +11,8 @@ namespace COnstructor_metot_2
         char cinsiyet;
         //Bunları direkt kullanamayız. kapsülleme uygularım.
 
-       public string AD
-        { 
+        public string AD
+        {
             get { return ad; }
             set { ad = value.ToLower(); }
         }
@@ -40,18 +40,17 @@ namespace COnstructor_metot_2
             get { return cinsiyet; }
             set { cinsiyet = value; }
         }
-
         //kapsülleme tamam. constructor ile ilk değerlerini ata. Sınıf ismi ile aynı olacak.
+
         public kimlik()
         {
             //kapsülleme isimleri değil ilk tanımlananlar (default) kullanılacak.
             ad = "";
             //herhangi bir veri girilmezse boş sayılsın.
-            soyad ="";
+            soyad = "";
             memleket = "Ankara";
             yas = 18;
-            cinsiyet ='K';
-
+            cinsiyet = 'K';
         }
     }
 }

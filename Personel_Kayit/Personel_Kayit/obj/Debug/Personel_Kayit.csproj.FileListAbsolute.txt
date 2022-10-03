@@ -1,0 +1,10 @@
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\mozay\OneDrive\Masaüstü\udemycshrproje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
